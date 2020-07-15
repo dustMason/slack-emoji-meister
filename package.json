@@ -16,7 +16,7 @@
     "@types/firefox-webext-browser": "78.0.0",
     "@types/node": "12.12.48",
     "eslint": "7.4.0",
-    "ts-loader": "7.0.5",
+    "ts-loader": "8.0.1",
     "typescript": "3.9.6",
     "webpack": "4.43.0"
   },
